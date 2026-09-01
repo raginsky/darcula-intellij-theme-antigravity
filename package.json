@@ -4,9 +4,9 @@
   "description": "A Darcula Theme inspired by IntelliJ",
   "version": "0.3.0",
   "license": "MIT",
-  "publisher": "kevinvn1709",
+  "publisher": "trinm1709",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^1.80.0"
   },
   "scripts": {
     "package": "vsce package"
