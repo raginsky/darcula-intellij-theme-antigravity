@@ -1,11 +1,10 @@
 {
-  "name": "dracula-theme-from-intellij",
-  "displayName": "Darcula IntelliJ Theme",
+  "name": "darcula-intellij-theme-antigravity",
+  "displayName": "Darcula IntelliJ Theme for Antigravity",
   "description": "Darcula IntelliJ Theme adapted for Antigravity IDE",
   "version": "0.3.0",
   "license": "MIT",
-  "publisher": "trinm1709",
-  "author": "Minh Tri Nguyen",
+  "publisher": "raginsky",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -24,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darcula Theme from IntelliJ",
+        "label": "Darcula IntelliJ Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/dracula-color-theme.json"
+        "path": "./themes/darcula-color-theme.json"
       }
     ]
   },

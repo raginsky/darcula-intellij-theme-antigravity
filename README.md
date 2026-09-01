@@ -29,13 +29,13 @@ npm run package
 This creates:
 
 ```text
-dracula-theme-from-intellij-0.3.0.vsix
+darcula-theme-from-intellij-0.3.0.vsix
 ```
 
 Install the package in Antigravity:
 
 ```bash
-antigravity-ide --install-extension dracula-theme-from-intellij-0.3.0.vsix
+antigravity-ide --install-extension darcula-theme-from-intellij-0.3.0.vsix
 ```
 
 ### Install from a release
@@ -43,7 +43,7 @@ antigravity-ide --install-extension dracula-theme-from-intellij-0.3.0.vsix
 Download the latest `.vsix` from [GitHub Releases](https://github.com/raginsky/darcula-intellij-theme-antigravity/releases) and install it:
 
 ```bash
-antigravity-ide --install-extension dracula-theme-from-intellij-0.3.0.vsix
+antigravity-ide --install-extension darcula-theme-from-intellij-0.3.0.vsix
 ```
 
 No build step is required when using the packaged `.vsix`.
