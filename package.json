@@ -1,10 +1,11 @@
 {
   "name": "dracula-theme-from-intellij",
   "displayName": "Darcula IntelliJ Theme",
-  "description": "A Darcula Theme inspired by IntelliJ",
+  "description": "Darcula IntelliJ Theme adapted for Antigravity IDE",
   "version": "0.3.0",
   "license": "MIT",
   "publisher": "trinm1709",
+  "author": "Minh Tri Nguyen",
   "engines": {
     "vscode": "^1.80.0"
   },

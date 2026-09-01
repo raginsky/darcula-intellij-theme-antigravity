@@ -1,7 +1,6 @@
 # Darcula Theme from IntelliJ — Antigravity
 
-Antigravity-ready packaging of the original Darcula IntelliJ theme by kevinvn1709 / trinm1709.
-
+Antigravity-ready packaging of the original Darcula IntelliJ theme.
 The theme provides an IntelliJ-style Darcula color scheme, including syntax-specific font styling.
 
 ## Installation
@@ -41,7 +40,7 @@ antigravity-ide --install-extension dracula-theme-from-intellij-0.3.0.vsix
 
 ### Install from a release
 
-If a packaged `.vsix` is available in GitHub Releases, download it and install it directly:
+Download the latest `.vsix` from [GitHub Releases](https://github.com/raginsky/darcula-intellij-theme-antigravity/releases) and install it:
 
 ```bash
 antigravity-ide --install-extension dracula-theme-from-intellij-0.3.0.vsix
@@ -63,15 +62,13 @@ The package script is equivalent to:
 vsce package
 ```
 
-## Original extension
+## Original theme
 
-Original publisher: `kevinvn1709`
+Created by Minh Tri Nguyen.
 
-Extension ID:
-
-```text
-kevinvn1709/vscode-dracula-color-theme
-```
+- Original repository: [kevinvn1709/vscode-dracula-color-theme](https://github.com/kevinvn1709/vscode-dracula-color-theme)
+- Visual Studio Marketplace publisher: `trinm1709`
+- Extension ID: `trinm1709.dracula-theme-from-intellij`
 
 This repository preserves the original theme while providing a convenient way to package and install it in Antigravity.
 
