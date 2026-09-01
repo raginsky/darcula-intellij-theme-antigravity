@@ -14,10 +14,10 @@
   "categories": [
     "Themes"
   ],
-  "homepage": "https://github.com/raginsky/darcula-theme-from-intellij-antigravity",
+  "homepage": "https://github.com/raginsky/darcula-intellij-theme-antigravity",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raginsky/darcula-theme-from-intellij-antigravity.git"
+    "url": "https://github.com/raginsky/darcula-intellij-theme-antigravity.git"
   },
   "icon": "icon.png",
   "contributes": {

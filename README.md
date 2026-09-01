@@ -11,8 +11,8 @@ The theme provides an IntelliJ-style Darcula color scheme, including syntax-spec
 Clone the repository:
 
 ```bash
-git clone https://github.com/raginsky/darcula-theme-from-intellij-antigravity.git
-cd darcula-theme-from-intellij-antigravity
+git clone https://github.com/raginsky/darcula-intellij-theme-antigravity.git
+cd darcula-intellij-theme-antigravity
 ```
 
 Install the development dependencies:
