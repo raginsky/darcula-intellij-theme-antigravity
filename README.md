@@ -1,6 +1,6 @@
 # Darcula Theme from IntelliJ — Antigravity
 
-A mirror of the `trinm1709.dracula-theme-from-intellij` VS Code theme, maintained here for use with Google Antigravity IDE.
+Antigravity-ready packaging of the original Darcula IntelliJ theme by kevinvn1709 / trinm1709.
 
 The theme provides an IntelliJ-style Darcula color scheme, including syntax-specific font styling.
 
@@ -65,12 +65,12 @@ vsce package
 
 ## Original extension
 
-Original publisher: `trinm1709`
+Original publisher: `kevinvn1709`
 
 Extension ID:
 
 ```text
-trinm1709.dracula-theme-from-intellij
+kevinvn1709/vscode-dracula-color-theme
 ```
 
 This repository preserves the original theme while providing a convenient way to package and install it in Antigravity.
